@@ -64,7 +64,7 @@ Using data from the EPA's ECHO tool, this R Markdown report performs:
 ## How to Run
 
 1. Place `discharge_state.csv` inside the `./data/` folder  
-2. Open `water_pollutant_analysis.Rmd` in RStudio  
+2. Open `npdes_state_2024.Rmd` in RStudio  
 3. Knit the file to **HTML** or **PDF** to render the full analysis  
 
 ---
