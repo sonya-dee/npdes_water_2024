@@ -33,7 +33,7 @@ Using data from the EPA's ECHO tool, this R Markdown report performs:
 
 ---
 
-## 🧪 Key Variables
+## Key Variables
 
 | Variable | Description |
 |----------|-------------|
